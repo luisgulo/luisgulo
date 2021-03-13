@@ -1,4 +1,27 @@
-### Hi there 👋
+### Luis Gutiérrez López (luisgulo)
+
+**Analista Sistemas GNU/Linux**
+Madrid, Comunidad de Madrid, España 
+
+
+🐧 SysAdmin GNU/Linux
+
+🐳 Docker
+
+🖥️ Bash Scripting
+
+🐪 Perl
+
+🐬 MySQL
+
+👥 Formador TI  & SysAdmin's
+
+💢 Ansible
+
+☁️ Cloud Computing
+
+❤️ Debian GNU/Linux
+
 
 <!--
 **luisgulo/luisgulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
