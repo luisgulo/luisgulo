@@ -9,13 +9,15 @@ Madrid, Comunidad de Madrid, España
 
 🐧 SysAdmin GNU/Linux
 
-🐳 Docker
+🐳 Docker 
 
 🖥️ Bash Scripting
 
-🐪 Perl
+🐍 Python 
 
-🐬 MySQL
+🐪 Perl 
+
+🐬 MySQL / MariaDB
 
 👥 Formador TI  & SysAdmin's
 
