@@ -4,7 +4,7 @@
 
 Madrid, Comunidad de Madrid, España
 
-# Todo migrado a GITEA, mi git personal en: https://gitea.soloconlinux.org.es
+# Todo migrado a GITEA, mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloconlinux.org.es/explore/repos)
 
 
 ---
