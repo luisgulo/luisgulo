@@ -2,7 +2,9 @@
 
 **Analista Sistemas GNU/Linux**
 
-Madrid, Comunidad de Madrid, España 
+Madrid, Comunidad de Madrid, España
+
+# Todo migrado a GITEA, mi git personal en: https://gitea.soloconlinux.org.es
 
 
 ---
