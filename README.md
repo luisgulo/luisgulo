@@ -4,7 +4,9 @@
 
 Madrid, Comunidad de Madrid, España
 
-# Todo migrado a GITEA, mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloconlinux.org.es/explore/repos)
+# Todos los repositorios migrados a GITEA.
+
+Mira mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloconlinux.org.es/explore/repos)
 
 
 ---
@@ -25,9 +27,9 @@ Madrid, Comunidad de Madrid, España
 
 💢 Ansible
 
-☁️ Cloud Computing
+☁️  Cloud Computing
 
-❤️ Debian GNU/Linux
+❤️  Debian GNU/Linux
 
 ---
 [Acceder al nuevo Repositorio en Gitea](https://gitea.soloconlinux.org.es/explore/repos)
