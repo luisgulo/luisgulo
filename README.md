@@ -6,7 +6,7 @@ Madrid, Comunidad de Madrid, España
 
 # Todos los repositorios migrados a GITEA.
 
-Mira mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloconlinux.org.es/explore/repos)
+Revisa mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloconlinux.org.es/explore/repos)
 
 
 ---
@@ -32,6 +32,6 @@ Mira mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.soloc
 ❤️  Debian GNU/Linux
 
 ---
-[Acceder al nuevo Repositorio en Gitea](https://gitea.soloconlinux.org.es/explore/repos)
+[Explor mi Repositorio en Gitea](https://gitea.soloconlinux.org.es/explore/repos)
 
 
