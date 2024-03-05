@@ -32,6 +32,6 @@ Revisa mi git personal en: [https://gitea.soloconlinux.org.es](https://gitea.sol
 ❤️  Debian GNU/Linux
 
 ---
-[Explor mi Repositorio en Gitea](https://gitea.soloconlinux.org.es/explore/repos)
+[Explora mi Repositorio en GITEA](https://gitea.soloconlinux.org.es/explore/repos)
 
 
